@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Azhar%20Khaibar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20System%20Builder&descAlignY=60&descSize=18&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Zar%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20System%20Builder&descAlignY=60&descSize=18&descColor=a78bfa" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Azhar+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Crafting+Scalable+%26+Beautiful+Systems;React+%7C+Next.js+%7C+Node.js+%7C+Golang;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
